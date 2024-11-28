@@ -1,1 +1,1 @@
-{"root":["./environment.d.ts","./src/index.ts"],"version":"5.7.2"}
+{"root":["./src/app.ts","./src/index.ts","./src/routes.ts","./src/modules/document/document.controller.ts","./src/modules/document/documents.routes.ts"],"version":"5.7.2"}
